@@ -49,6 +49,7 @@
 		18870E271F668B7E00AD8662 /* RxSwift_projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RxSwift_projectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18870E2B1F668B7E00AD8662 /* RxSwift_projectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RxSwift_projectUITests.swift; sourceTree = "<group>"; };
 		18870E2D1F668B7E00AD8662 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18E5D14B1F6A140C003E8CA7 /* RxSwift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RxSwift.playground; sourceTree = "<group>"; };
 		869BFB891F390D304F2D823A /* Pods-RxSwift_project.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwift_project.release.xcconfig"; path = "Pods/Target Support Files/Pods-RxSwift_project/Pods-RxSwift_project.release.xcconfig"; sourceTree = "<group>"; };
 		B8D22D6E95F374369F2CF703 /* Pods_RxSwift_project.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxSwift_project.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -106,6 +107,7 @@
 			children = (
 				18870E0B1F668B7E00AD8662 /* AppDelegate.swift */,
 				18870E0D1F668B7E00AD8662 /* ViewController.swift */,
+				18E5D14B1F6A140C003E8CA7 /* RxSwift.playground */,
 				18870E0F1F668B7E00AD8662 /* Main.storyboard */,
 				18870E121F668B7E00AD8662 /* Assets.xcassets */,
 				18870E141F668B7E00AD8662 /* LaunchScreen.storyboard */,
@@ -584,6 +586,7 @@
 				18870E321F668B7E00AD8662 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18870E331F668B7E00AD8662 /* Build configuration list for PBXNativeTarget "RxSwift_projectTests" */ = {
 			isa = XCConfigurationList;
@@ -592,6 +595,7 @@
 				18870E351F668B7E00AD8662 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18870E361F668B7E00AD8662 /* Build configuration list for PBXNativeTarget "RxSwift_projectUITests" */ = {
 			isa = XCConfigurationList;
@@ -600,6 +604,7 @@
 				18870E381F668B7E00AD8662 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
